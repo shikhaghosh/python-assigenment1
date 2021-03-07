@@ -1,0 +1,10 @@
+s1=float(input("enter your marks : "))
+s2=float(input("enter your marks : "))
+s3=float(input("enter your marks : "))
+s4=float(input("enter your marks : "))
+s5=float(input("enter your marks : "))
+s6=float(input("enter your marks : "))
+total=s1+s2+s3+s4+s5+s6
+avg=total/5
+print(" \n total marks = " , total)
+print(" \n average marks = ", avg)
